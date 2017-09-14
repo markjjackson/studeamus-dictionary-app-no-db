@@ -1,0 +1,35 @@
+@import "~Styles/colors";
+
+.result {
+  display: block;
+  padding: 10px 0;
+  width: 100%;
+  border-bottom: 1px solid $color-grey;
+  > div {
+    margin: 20px 0;
+  }
+}
+
+.latin {
+  font-weight: bold;
+  font-size: 20px;
+  color: $color-green;
+  letter-spacing: 1px;
+}
+
+.chapter {
+
+}
+
+.info {
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: .5px;
+}
+
+.definitions {
+  color: $color-black;
+  > div {
+    line-height: 1.7;
+  }
+}
