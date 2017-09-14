@@ -21,7 +21,7 @@ class WordSearch extends Component {
     return (
       <input className={styles.searchInput}
         type="text"
-        placeholder="Zoek voor een woord"
+        placeholder="Zoek een woord"
         onChange={search(updateDictionary)}
       />
     )
