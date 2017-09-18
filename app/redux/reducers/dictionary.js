@@ -9,7 +9,7 @@ const dictionaryReducer = (state = initialState, action) => {
         return []
       } else {
         const regex = new RegExp(`^${action.payload}.*`)
-        return dictionaryData.filter(x => regex.test(x.latin))
+        return dictionaryData.filter(x => regex.test(x.searchForm))
       }
     default:
       return state
