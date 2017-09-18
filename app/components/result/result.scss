@@ -4,17 +4,17 @@
   display: block;
   padding: 10px 0;
   width: 100%;
-  border-bottom: 1px solid $color-grey;
   > div {
-    margin: 20px 0;
+    margin: 10px 0;
   }
 }
 
 .latin {
-  font-weight: bold;
+
   font-size: 20px;
   color: $color-green;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
+  -webkit-font-variant-ligatures: no-common-ligatures;
 }
 
 .chapter {
@@ -22,6 +22,7 @@
 }
 
 .info {
+  color: $color-darkgrey;
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: .5px;

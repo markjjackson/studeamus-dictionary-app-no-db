@@ -350,7 +350,7 @@ const dictionaryData = [
  {
    "latin": "aliqui, aliqua, aliquod",
    "info": "",
-   "definitions": ["*ev* een (zekere), een of andere", "*mv* sommige, enige"],
+   "definitions": ["**ev** een (zekere), een of andere", "**mv** sommige, enige"],
    "chapter": "46"
  },
  {
@@ -632,7 +632,7 @@ const dictionaryData = [
  {
    "latin": "auferre",
    "info": "",
-   "definitions": ["wegnemen", "*se* zich verwijderen"],
+   "definitions": ["wegnemen", "**se** zich verwijderen"],
    "chapter": "55"
  },
  {
@@ -662,7 +662,7 @@ const dictionaryData = [
  {
    "latin": "auxilium",
    "info": "",
-   "definitions": ["hulp", "*mv* hulptroepen"],
+   "definitions": ["hulp", "**mv** hulptroepen"],
    "chapter": "4, 37"
  },
  {
@@ -1094,7 +1094,7 @@ const dictionaryData = [
  {
    "latin": "committere",
    "info": "",
-   "definitions": ["toevertrouwen", "*scelus* begaan", "*proelium* aangaan"],
+   "definitions": ["toevertrouwen", "**scelus** begaan", "**proelium** aangaan"],
    "chapter": "26, 54"
  },
  {
@@ -1166,7 +1166,7 @@ const dictionaryData = [
  {
    "latin": "coniunx, coniuges",
    "info": "",
-   "definitions": ["*m* echtgenoot", "*v* echtgenote"],
+   "definitions": ["**m** echtgenoot", "**v** echtgenote"],
    "chapter": "52"
  },
  {
@@ -1232,7 +1232,7 @@ const dictionaryData = [
  {
    "latin": "consulere",
    "info": "",
-   "definitions": ["beraadslagen", "*+ acc* raadplegen"],
+   "definitions": ["beraadslagen", "**+ acc** raadplegen"],
    "chapter": "48"
  },
  {
@@ -1286,7 +1286,7 @@ const dictionaryData = [
  {
    "latin": "contingere",
    "info": "",
-   "definitions": ["*+ acc* aanraken", "gebeuren"],
+   "definitions": ["**+ acc** aanraken", "gebeuren"],
    "chapter": "41"
  },
  {
@@ -1304,7 +1304,7 @@ const dictionaryData = [
  {
    "latin": "convenire",
    "info": "",
-   "definitions": ["bijeenkomen", "*+ acc* ontmoeten"],
+   "definitions": ["bijeenkomen", "**+ acc** ontmoeten"],
    "chapter": "30, 41"
  },
  {
@@ -1448,7 +1448,7 @@ const dictionaryData = [
  {
    "latin": "cuncti, -ae, -a",
    "info": "mv",
-   "definitions": ["*bnw* alle", "*znw* allen, alles"],
+   "definitions": ["**bnw** alle", "**znw** allen, alles"],
    "chapter": "23"
  },
  {
@@ -2390,7 +2390,7 @@ const dictionaryData = [
  {
    "latin": "finis, fines",
    "info": "m",
-   "definitions": ["grens, einde", "*mv* gebied"],
+   "definitions": ["grens, einde", "**mv** gebied"],
    "chapter": "26"
  },
  {
@@ -2504,7 +2504,7 @@ const dictionaryData = [
  {
    "latin": "fugere, fugio",
    "info": "",
-   "definitions": ["vluchten", "*+ acc* ontvluchten"],
+   "definitions": ["vluchten", "**+ acc** ontvluchten"],
    "chapter": "6, 19"
  },
  {
@@ -3698,7 +3698,7 @@ const dictionaryData = [
  {
    "latin": "meminisse",
    "info": "pf",
-   "definitions": ["*+ aci* zich herinneren dat", "*+gen* zich (iets) herinneren"],
+   "definitions": ["**+ aci** zich herinneren dat", "**+gen** zich (iets) herinneren"],
    "chapter": "26"
  },
  {
@@ -3872,7 +3872,7 @@ const dictionaryData = [
  {
    "latin": "morari",
    "info": "",
-   "definitions": ["verblijven", "*+acc* vertragen"],
+   "definitions": ["verblijven", "**+acc** vertragen"],
    "chapter": "51"
  },
  {
@@ -3992,7 +3992,7 @@ const dictionaryData = [
  {
    "latin": "ne",
    "info": "+ conj (BZ)",
-   "definitions": ["(met de bedoeling) dat niet, om niet te", "*ww van vrezen*dat"],
+   "definitions": ["(met de bedoeling) dat niet, om niet te", "**ww van vrezen** dat"],
    "chapter": "44"
  },
  {
@@ -4154,7 +4154,7 @@ const dictionaryData = [
  {
    "latin": "nonnulli, -ae, -a",
    "info": "mv",
-   "definitions": ["*bnw* sommige", "*znw* sommigen"],
+   "definitions": ["**bnw** sommige", "**znw** sommigen"],
    "chapter": "27"
  },
  {
@@ -4376,13 +4376,13 @@ const dictionaryData = [
  {
    "latin": "omnes",
    "info": "mv m/v",
-   "definitions": ["*bnw* alle", "*znw* allen"],
+   "definitions": ["**bnw** alle", "**znw** allen"],
    "chapter": "16"
  },
  {
    "latin": "omnia",
    "info": "mv o",
-   "definitions": ["*bnw* alle", "*znw* alles"],
+   "definitions": ["**bnw** alle", "**znw** alles"],
    "chapter": "16"
  },
  {
@@ -4472,7 +4472,7 @@ const dictionaryData = [
  {
    "latin": "par, par-",
    "info": "",
-   "definitions": ["gelijk(waardig)", "*+ dat* opgewassen tegen"],
+   "definitions": ["gelijk(waardig)", "**+ dat** opgewassen tegen"],
    "chapter": "32"
  },
  {
@@ -5006,7 +5006,7 @@ const dictionaryData = [
  {
    "latin": "praestare",
    "info": "",
-   "definitions": ["verrichten", "*se* zich betonen"],
+   "definitions": ["verrichten", "**se** zich betonen"],
    "chapter": "39"
  },
  {
@@ -5174,7 +5174,7 @@ const dictionaryData = [
  {
    "latin": "prohibēre",
    "info": "",
-   "definitions": ["*(a(b)) + abl* afhouden van", "*+ inf* verhinderen"],
+   "definitions": ["**(a(b)) + abl** afhouden van", "**+ inf** verhinderen"],
    "chapter": "48, 52"
  },
  {
@@ -5342,7 +5342,7 @@ const dictionaryData = [
  {
    "latin": "quam",
    "info": "",
-   "definitions": ["*+ comp* … dan", "*+ sup* zo … mogelijk"],
+   "definitions": ["**+ comp** … dan", "**+ sup** zo … mogelijk"],
    "chapter": "18"
  },
  {
@@ -5414,7 +5414,7 @@ const dictionaryData = [
  {
    "latin": "quidam, quaedam, quoddam",
    "info": "",
-   "definitions": ["*ev* een (zekere), een of andere", "*mv* sommige, enige"],
+   "definitions": ["**ev** een (zekere), een of andere", "**mv** sommige, enige"],
    "chapter": "46"
  },
  {
@@ -5528,7 +5528,7 @@ const dictionaryData = [
  {
    "latin": "recipere, recipio",
    "info": "",
-   "definitions": ["ontvangen", "*se* zich terugtrekken"],
+   "definitions": ["ontvangen", "**se** zich terugtrekken"],
    "chapter": "36"
  },
  {
@@ -5828,7 +5828,7 @@ const dictionaryData = [
  {
    "latin": "sacer, -cra, -crum",
    "info": "",
-   "definitions": ["heilig", "*+ dat* gewijd aan"],
+   "definitions": ["heilig", "**+ dat** gewijd aan"],
    "chapter": "46"
  },
  {
@@ -5954,7 +5954,7 @@ const dictionaryData = [
  {
    "latin": "se",
    "info": "",
-   "definitions": ["zich(zelf)", "*aci* dat hij, dat zij"],
+   "definitions": ["zich(zelf)", "**aci** dat hij, dat zij"],
    "chapter": "19, 25"
  },
  {
@@ -6806,7 +6806,7 @@ const dictionaryData = [
  {
    "latin": "ut",
    "info": "+ ind",
-   "definitions": ["zoals", "*+ pf* zodra"],
+   "definitions": ["zoals", "**+ pf** zodra"],
    "chapter": "23"
  },
  {
@@ -6890,7 +6890,7 @@ const dictionaryData = [
  {
    "latin": "vehere",
    "info": "",
-   "definitions": ["*act* vervoeren", "*pass* reizen"],
+   "definitions": ["**act** vervoeren", "**pass** reizen"],
    "chapter": "52"
  },
  {
@@ -7164,5 +7164,6 @@ const dictionaryData = [
    "chapter": "41"
  }
 ]
+
 
 export default dictionaryData

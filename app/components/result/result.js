@@ -6,7 +6,7 @@ import { transformMarkdown } from 'Util/markdown'
 const mapDefinitions = defs => defs.map((def, i) => {
   return (
     <div
-      dangerouslySetInnerHTML={{__html: `${defs.length < 2 ? '' : ++i + '.'} ${transformMarkdown(def)}`}}
+      dangerouslySetInnerHTML={{__html: `${defs.length < 2 ? '' : ++i + '.&nbsp;'} ${transformMarkdown(def)}`}}
       key={i}
     />
   )
@@ -30,9 +30,6 @@ class Result extends Component {
 
         <div className={styles.definitions}>
           { mapDefinitions(definitions) }
-        </div>
-        <div className={styles.chapter}>
-          { chapter }
         </div>
       </div>
     )
